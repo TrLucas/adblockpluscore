@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Install dependencies for Adblockplus Core testing",
+        "cmd": "npm install"
+    },
+    {
+        "name": "Adblockplus Core unittests",
+        "cmd": "npm test"
+    }
+]
